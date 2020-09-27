@@ -3,7 +3,7 @@ Manning Live Project
 
 Working through semi-supervised learning live project.  
 
-Interested in getting beter at:
+Interested in getting better at:
 
 * VAEs
 * GANs
